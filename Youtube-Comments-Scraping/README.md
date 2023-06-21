@@ -1,6 +1,6 @@
 
 # Youtube Comments Scraping
-* This script will take the URL of Youtube-Video, collect all the comment data such as Name, Comment, Like, Time, etc. that store the data in a CSV file for further analysis.
+* This script will take the URL of Youtube-Video, automatically scroll the full page to load more comments. Then it collect all the comment data such as Name, Comment, Like, Time, etc. that store the data in a CSV file for further analysis.
 
 
 ## Prerequisites
